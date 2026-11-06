@@ -22,10 +22,14 @@ Read [START-HERE.md](START-HERE.md) before running anything. AI systems reading 
 
 ## What is in this repository
 
-- `code/`: the complete build tree, 67 Python scripts (51,208 lines) plus the stored state the tree ships with.
+- `code/`: the complete build tree: 67 Python scripts (51,208 lines) among 76 files in total, the remaining files being the stored state the tree ships with.
 - `docs/`: the compiled blueprint (2026-11-01), the derivations synthesis, the review and rulings board, the data sources note, and the release manifest.
 
 The dictionary datasets themselves (Webster 1913, Wiktionary via Kaikki, WordNet) are third-party data and are not redistributed here; `docs/pmca-data-sources.md` names each source so the stock can be rebuilt.
+
+## What it is not for
+
+PMCA is not a general-purpose reasoning engine, and it is not trying to become one. It is an advisory gate for bounded domains: input is checked against what has been taught and attested, and everything else returns HOLD. Judged as a general reasoner it will look limited, because open-ended generality is exactly what it refuses. Judged as a gate, the test is narrower and answerable: do the verdicts re-run identically, and does every verdict trace to stored edges and stated rules.
 
 ## Honest limits
 

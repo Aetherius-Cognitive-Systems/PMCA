@@ -1,6 +1,6 @@
 # START HERE
 
-The `code/` folder holds 67 scripts, 51,208 lines. Not every file is a place to start. Four files at the top of the alphabetical list are dead legacy and will crash if run: do not start there.
+The `code/` folder holds 67 scripts, 51,208 lines, among 76 files in total; the other nine are the stored state files the tree ships with. Not every file is a place to start. Four files at the top of the alphabetical list are dead legacy and will crash if run: do not start there.
 
 ## Do not run these
 
@@ -19,6 +19,12 @@ Also in the tree, retained for the record: the nine retired finder microscripts 
 - `pmca_finder.py`: the unified finder (lookup, dictionary attestation, sentence-context arbitration).
 - `pmca_self_fix_battery.py`: the self-fix battery.
 - `wg2_conformance.py`: the conformance suite.
+
+## It runs as shipped
+
+The verdict path runs from the seed as shipped, with nothing to download. The dictionary datasets (Webster 1913, Wiktionary via Kaikki, WordNet) are external reference data, named in `docs/pmca-data-sources.md` so the stock can be rebuilt; they are not redistributed because they are large third-party datasets. Without them the system returns HOLD more often. It does not stop running.
+
+This is an advisory gate for bounded domains, not a general-purpose reasoning engine. Each entry point above is a standalone Python 3 script that prints its own results; the self-fix battery and the conformance suite print their pass counts when run.
 
 ## The verdict contract
 

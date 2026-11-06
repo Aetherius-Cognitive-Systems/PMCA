@@ -1,5 +1,7 @@
 # Whole Release: Staging Manifest (private, NOT published)
 
+> **Status update, 2026-11-05:** This manifest was written while the release was still staged, and its "not published" wording describes that night. The release has since been published, on the author's go, as Zenodo record 23973662, and this repository carries its build tree and principal documents. Read the staging language below as history, not as the present state. The document is otherwise unchanged.
+
 Staged 2026-11-05 under Jonathan's whole-release ruling of the same night.
 Nothing in this directory is public. Publication requires his go on this exact
 package after his review.
