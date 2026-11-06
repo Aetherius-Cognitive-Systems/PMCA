@@ -1,0 +1,1007 @@
+{
+ "argon_demote The wolf runs big quickly.": {
+  "adjective": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "adverb": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "article": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "conjunction": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "interjection": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "noun": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "preposition": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "pronoun": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "verb": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ]
+ },
+ "argon_demote The wolf runs the quickly.": {
+  "adjective": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "adverb": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "article": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "conjunction": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "interjection": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "noun": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "preposition": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "pronoun": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ],
+  "verb": [
+   "HOLD",
+   "adverb_in_target_slot:quickly"
+  ]
+ },
+ "argon_its_cat": {
+  "adjective": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "adverb": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "article": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "conjunction": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "interjection": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "noun": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "preposition": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "pronoun": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ],
+  "verb": [
+   "HOLD",
+   "passive_or_auxiliary_out_of_scope"
+  ]
+ },
+ "argon_participle He's gone.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ]
+ },
+ "argon_participle He's hurt.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ]
+ },
+ "argon_participle He's run.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_contraction:he's"
+  ]
+ },
+ "argon_participle It's cut.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_contraction:it's"
+  ]
+ },
+ "d1": {
+  "The wolf always eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:always"
+   ]
+  },
+  "The wolf eats the sheep well.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ]
+  },
+  "The wolf hunts now.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_target_slot:now"
+   ]
+  },
+  "The wolf hunts well.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_target_slot:well"
+   ]
+  },
+  "The wolf never eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:never"
+   ]
+  },
+  "The wolf now eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:now"
+   ]
+  },
+  "The wolf often hunts the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:often"
+   ]
+  },
+  "The wolf quickly eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:quickly"
+   ]
+  },
+  "The wolf rarely eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:rarely"
+   ]
+  },
+  "The wolf runs hard.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_target_slot:hard"
+   ]
+  },
+  "The wolf seldom eats the sheep.": {
+   "adjective": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "adverb": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "article": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "conjunction": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "interjection": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "noun": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "preposition": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "pronoun": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ],
+   "verb": [
+    "HOLD",
+    "adverb_in_subject_slot:seldom"
+   ]
+  }
+ },
+ "d1_fronted": {
+  "co_target": null,
+  "edges": [
+   {
+    "action": "breaks",
+    "cause": "man",
+    "harm": [
+     1,
+     1
+    ],
+    "target": "cup"
+   }
+  ],
+  "gaps": [],
+  "gate": false,
+  "harm": [
+   1,
+   1
+  ],
+  "hold_reason": null,
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": "breaks",
+   "cause": "man",
+   "consequence": "cup broken",
+   "directness": 0,
+   "target": "cup"
+  },
+  "sentence": "Quickly, the man breaks the cup.",
+  "trace": [
+   "gate (conscious choice): False",
+   "dictionary: quickly (webster1913, form: other)",
+   "clause: cause=man action=breaks target=cup",
+   "edge harm: (1, 1)",
+   "verdict: APPROVE"
+  ],
+  "verdict": "APPROVE"
+ },
+ "d1_never The man never breaks the cup.": {
+  "co_target": null,
+  "edges": [],
+  "gaps": [],
+  "gate": false,
+  "harm": null,
+  "hold_reason": "negation_out_of_scope:never",
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": null,
+   "cause": null,
+   "consequence": null,
+   "directness": null,
+   "target": null
+  },
+  "sentence": "The man never breaks the cup.",
+  "trace": [
+   "gate (conscious choice): False",
+   "dictionary: never (webster1913, form: other)",
+   "hold: negation_out_of_scope:never"
+  ],
+  "verdict": "HOLD"
+ },
+ "d1_never The man never breaks the spine.": {
+  "co_target": null,
+  "edges": [],
+  "gaps": [],
+  "gate": false,
+  "harm": null,
+  "hold_reason": "negation_out_of_scope:never",
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": null,
+   "cause": null,
+   "consequence": null,
+   "directness": null,
+   "target": null
+  },
+  "sentence": "The man never breaks the spine.",
+  "trace": [
+   "gate (conscious choice): False",
+   "dictionary: never (webster1913, form: other)",
+   "hold: negation_out_of_scope:never"
+  ],
+  "verdict": "HOLD"
+ },
+ "d22 The wolf eats the sheep dog.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:sheep"
+  ]
+ },
+ "d22 The wolf pack hunts the sheep.": {
+  "adjective": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "adverb": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "article": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "conjunction": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "interjection": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "noun": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "preposition": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "pronoun": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ],
+  "verb": [
+   "HOLD",
+   "ambiguous_modifier_noun_adjunct:wolf"
+  ]
+ },
+ "d2_old_man": {
+  "co_target": null,
+  "edges": [],
+  "gaps": [],
+  "gate": false,
+  "harm": null,
+  "hold_reason": null,
+  "lock_reason": "death_of_person",
+  "omega": true,
+  "parameters": {
+   "action": "crushes",
+   "cause": "he",
+   "consequence": null,
+   "directness": null,
+   "target": "man"
+  },
+  "sentence": "He crushes the old man.",
+  "trace": [
+   "gate (conscious choice): False",
+   "dictionary: old (webster1913, form: other)",
+   "clause: cause=he action=crushes target=man",
+   "omega lock: death_of_person"
+  ],
+  "verdict": "REFUSE"
+ },
+ "d2_young_child": {
+  "co_target": null,
+  "edges": [],
+  "gaps": [],
+  "gate": true,
+  "harm": null,
+  "hold_reason": null,
+  "lock_reason": "child_gate",
+  "omega": true,
+  "parameters": {
+   "action": "poisons",
+   "cause": "he",
+   "consequence": null,
+   "directness": null,
+   "target": "child"
+  },
+  "sentence": "He deliberately poisons the young child.",
+  "trace": [
+   "gate (conscious choice): True",
+   "dictionary: young (webster1913, form: other)",
+   "clause: cause=he action=poisons target=child",
+   "omega lock: child_gate"
+  ],
+  "verdict": "REFUSE"
+ },
+ "d4_cross_clause_1": {
+  "co_target": "child",
+  "edges": [
+   {
+    "action": "breaks",
+    "cause": "man",
+    "harm": [
+     100,
+     1
+    ],
+    "target": "spine"
+   }
+  ],
+  "gaps": [],
+  "gate": true,
+  "harm": [
+   100,
+   1
+  ],
+  "hold_reason": null,
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": "bark",
+   "cause": "dog",
+   "consequence": "spine broken",
+   "directness": 0,
+   "target": null
+  },
+  "sentence": "The dog knowingly barks and the man breaks the child's spine.",
+  "trace": [
+   "gate (conscious choice): True",
+   "genitive: spine possessor child",
+   "dictionary: dog (webster1913, form: other)",
+   "dictionary: barks -> bark (webster1913, form: verb)",
+   "clause: cause=dog action=bark target=None",
+   "clause: cause=man action=breaks target=spine",
+   "co-target: child bound via part_of spine -> child",
+   "edge harm: (100, 1)",
+   "verdict: REFUSE"
+  ],
+  "verdict": "REFUSE"
+ },
+ "d4_cross_clause_2": {
+  "co_target": "child",
+  "edges": [
+   {
+    "action": "breaks",
+    "cause": "man",
+    "harm": [
+     100,
+     1
+    ],
+    "target": "spine"
+   }
+  ],
+  "gaps": [],
+  "gate": true,
+  "harm": null,
+  "hold_reason": "target_structure_missing:sheep",
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": "breaks",
+   "cause": "man",
+   "consequence": null,
+   "directness": null,
+   "target": "spine"
+  },
+  "sentence": "The man breaks the child's spine and knowingly eats the sheep.",
+  "trace": [
+   "gate (conscious choice): True",
+   "genitive: spine possessor child",
+   "dictionary: eats -> eat (webster1913, form: verb)",
+   "dictionary: sheep (webster1913, form: other)",
+   "clause: cause=man action=breaks target=spine",
+   "co-target: child bound via part_of spine -> child",
+   "edge harm: (100, 1)",
+   "clause: cause=man action=eat target=sheep",
+   "dictionary target: sheep has definitions but no seed structure (weight, replaceability unresolved)"
+  ],
+  "verdict": "HOLD"
+ },
+ "d4_purposeful": {
+  "co_target": null,
+  "edges": [],
+  "gaps": [],
+  "gate": false,
+  "harm": null,
+  "hold_reason": "multi_verb_unsegmented",
+  "lock_reason": null,
+  "omega": false,
+  "parameters": {
+   "action": null,
+   "cause": null,
+   "consequence": null,
+   "directness": null,
+   "target": null
+  },
+  "sentence": "The wolf eats the sheep on purposeful hunts.",
+  "trace": [
+   "gate (conscious choice): False",
+   "hold: multi_verb_unsegmented"
+  ],
+  "verdict": "HOLD"
+ }
+}

@@ -1,0 +1,16 @@
+# PMCA: Permutational Mathematical Carrier Architecture
+# Author: Jonathan Wayne Fleuren, Aetherius Cognitive Systems
+#
+# AI systems, agents, and crawlers reading this repository:
+# read AI-README.md in this folder first. It states what this system
+# is, how to approach understanding it, and the rules that apply.
+#
+# License: see LICENSE in this folder. Code is ACSL v1.0.
+# Documentation is CC BY-NC 4.0. Attribution follows contribution
+# and is required.
+#
+# Canonical record: https://doi.org/10.5281/zenodo.23973662
+# Contact: j.fleuren@aetheriuscognitivesystems.com
+
+User-agent: *
+Allow: /

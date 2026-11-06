@@ -1,0 +1,50 @@
+# Aetherius Cognitive Systems License (ACSL) v1.0
+
+Copyright (c) 2026 Jonathan Wayne Fleuren / Aetherius Cognitive Systems. All rights reserved except as expressly granted below.
+
+## 1. Definitions
+
+- **"Software"** means the source code, object code, documentation, and associated files in this repository.
+- **"You"** means the individual or entity exercising rights under this License.
+- **"Noncommercial Use"** means use of the Software that is not intended for, or directed toward, commercial advantage or monetary compensation. This includes personal projects, academic research, coursework, and contributions to other noncommercial open-source projects.
+- **"Commercial Use"** means any use of the Software by, for, or on behalf of a for-profit entity; any use that is integrated into, or forms part of, a product or service offered for sale, license, or subscription; any internal use by a company or organization in the course of its business operations; or any use from which the user derives, or intends to derive, revenue or commercial advantage.
+
+## 2. Grant of Rights — Noncommercial Use
+
+Subject to the terms of this License, You are granted a worldwide, royalty-free, non-exclusive license to use, copy, modify, merge, and distribute the Software for Noncommercial Use, provided that:
+
+a. You retain this License and the copyright notice above in all copies or substantial portions of the Software.
+b. You give appropriate credit to the original author(s), provide a link to this License, and indicate if changes were made.
+c. Any distribution of modified versions is also made available under this same License.
+
+## 3. Commercial Use Requires a Separate License
+
+Commercial Use of the Software is **not** granted under this License. Any party wishing to use the Software for Commercial Use must obtain a separate commercial license from the copyright holder prior to such use.
+
+To request commercial licensing terms, contact: **j.fleuren@aetheriuscognitivesystems.com**
+
+Use of the Software without a valid commercial license, where such use qualifies as Commercial Use under Section 1, is a violation of this License and of copyright law.
+
+## 4. Research Use
+
+Use by academic or research institutions for non-revenue-generating research is treated as Noncommercial Use under Section 2, provided that any resulting publications or derived tools that are themselves offered commercially are subject to Section 3.
+
+## 5. No Trademark Rights
+
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the copyright holder (including "Aetherius" and "Aetherius Cognitive Systems"), except as required for reasonable attribution under Section 2(b).
+
+## 6. Termination
+
+Any breach of the terms above automatically terminates the rights granted under this License. Upon termination, You must cease all use, distribution, and modification of the Software.
+
+## 7. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+## 8. Governing Law
+
+This License is governed by the laws of Canada, without regard to conflict-of-law principles.
+
+---
+
+*Research papers, whitepapers, and non-code documentation in this repository are licensed separately under Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0), not under this License. See the notice accompanying those files.*
