@@ -22,7 +22,7 @@ Read [START-HERE.md](START-HERE.md) before running anything. AI systems reading 
 
 ## What is in this repository
 
-- `code/`: the complete build tree: 67 Python scripts (51,208 lines) among 76 files in total, the remaining files being the stored state the tree ships with.
+- `code/`: the complete build tree: 67 Python scripts (51,288 lines) among 76 files in total, the remaining files being the stored state the tree ships with.
 - `docs/`: the compiled blueprint (2026-11-01), the derivations synthesis, the review and rulings board, the data sources note, and the release manifest.
 
 The dictionary datasets themselves (Webster 1913, Wiktionary via Kaikki, WordNet) are third-party data and are not redistributed here; `docs/pmca-data-sources.md` names each source so the stock can be rebuilt.

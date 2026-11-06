@@ -619,9 +619,68 @@ def build_edges(parse, audience="adult"):
             return None
         edges.append(Edge(pair[0], pair[1], "Meaning", harm, False, ()))
         compound_words.update(pair)
+    # Token-occurrence bookkeeping (gate-integrity fix, 2026-11-04).
+    # Compound suppression and rule consumption are properties of token
+    # OCCURRENCES, not word values: a second occurrence of a compound's
+    # noun elsewhere in the clause is not inside the compound, and a
+    # noun no rule consumed is not silently passed over.
+    tokens = parse.tokens
+    tagged = parse.tagged
+    spans = []
+    for i in range(len(tokens) - 1):
+        if (tokens[i], tokens[i + 1]) in COMPOUNDS:
+            spans.append((i, i + 1))
+    for i, tok in enumerate(tokens):
+        parts = tuple(tok.split())
+        if len(parts) > 1 and parts in COMPOUNDS:
+            spans.append((i, i))
+    consumed = set()
+    for lo, hi in spans:
+        consumed.update(range(lo, hi + 1))
+    verb_idx = None
+    for i, t in enumerate(tagged):
+        if t == VERB:
+            verb_idx = i
+            break
+    obj_idx = None
+    if parse.obj is not None and verb_idx is not None:
+        if parse.passive:
+            for i in range(verb_idx):
+                if tagged[i] == NOUN and tokens[i] == parse.obj:
+                    obj_idx = i
+                    break
+        else:
+            for i in range(verb_idx + 1, len(tokens)):
+                if tagged[i] in (NOUN, PRON) and tokens[i] == parse.obj:
+                    obj_idx = i
+                    break
+    if obj_idx is not None:
+        consumed.add(obj_idx)
+    for adj, noun in parse.adjectives:
+        for i, tok in enumerate(tokens):
+            if tok == adj and tagged[i] == ADJ:
+                for j in range(i + 1, len(tokens)):
+                    if tagged[j] == NOUN and tokens[j] == noun:
+                        consumed.add(j)
+                        break
+                break
+    for q in parse.qualifiers:
+        for i, tok in enumerate(tokens):
+            if tok == q:
+                consumed.add(i)
+                break
+    if parse.with_phrase is not None:
+        x_tok = parse.with_phrase[1]
+        for i, tok in enumerate(tokens):
+            if tok == x_tok:
+                consumed.add(i)
+                break
     if parse.verb is not None and parse.obj is not None:
         obj = parse.obj
-        obj_in_compound = (obj in compound_words) or (tuple(obj.split()) in pairs)
+        if obj_idx is not None:
+            obj_in_compound = any(lo <= obj_idx <= hi for lo, hi in spans)
+        else:
+            obj_in_compound = (obj in compound_words) or (tuple(obj.split()) in pairs)
         if not obj_in_compound:
             if parse.passive:
                 target = canonical(obj)
@@ -655,6 +714,19 @@ def build_edges(parse, audience="adult"):
             return None
         harm = conditioned_harm(adj, noun, parse.topic)
         edges.append(Edge(adj, noun, "Descriptor", harm, False, ()))
+    # No silent gaps (standing ruling): a noun occurrence that carries
+    # harm as the target of some stored edge but was consumed by no
+    # rule above leaves the clause unverified -- HOLD, never a silent
+    # pass. The verdict's HOLD is this module's record of the gap.
+    harm_targets = set()
+    for graph in _seed_space().graphs.values():
+        for stored in graph["edges"]:
+            if stored["harm"] > 0:
+                harm_targets.add(stored["target"])
+    for i, tok in enumerate(tokens):
+        if i < len(tagged) and tagged[i] == NOUN and i not in consumed:
+            if canonical(tok) in harm_targets:
+                return None
     if not edges:
         return None
     return edges

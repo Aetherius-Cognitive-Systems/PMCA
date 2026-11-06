@@ -1,6 +1,6 @@
 # START HERE
 
-The `code/` folder holds 67 scripts, 51,208 lines, among 76 files in total; the other nine are the stored state files the tree ships with. Not every file is a place to start. Four files at the top of the alphabetical list are dead legacy and will crash if run: do not start there.
+The `code/` folder holds 67 scripts, 51,288 lines, among 76 files in total; the other nine are the stored state files the tree ships with. Not every file is a place to start. Four files at the top of the alphabetical list are dead legacy and will crash if run: do not start there.
 
 ## Do not run these
 
@@ -22,7 +22,7 @@ Also in the tree, retained for the record: the nine retired finder microscripts 
 
 ## What runs from this checkout
 
-Measured from this tree on 2026-11-05: `pmca_proof.py` runs its battery standalone, 84/84; `pmca_layer1.py` runs its battery standalone, 58/58. `wg2_conformance.py` needs the rebuilt Webster 1913 database at `code/data/webster1913.db` and will not run until that stock is in place (see `docs/pmca-data-sources.md`). Suites that read the dictionary stock behave the same way: the verdict path runs without it, the stock-dependent checks wait for it.
+Measured from this tree on 2026-11-06: `pmca_proof.py` runs its battery standalone, 84/84; `pmca_layer1.py` runs its battery standalone, 62/62. `wg2_conformance.py` needs the rebuilt Webster 1913 database at `code/data/webster1913.db` and will not run until that stock is in place (see `docs/pmca-data-sources.md`). Suites that read the dictionary stock behave the same way: the verdict path runs without it, the stock-dependent checks wait for it.
 
 ## It runs as shipped
 

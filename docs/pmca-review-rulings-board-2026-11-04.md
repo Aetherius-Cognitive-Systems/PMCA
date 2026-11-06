@@ -1,6 +1,6 @@
 # PMCA SHARE review — ruling board
 
-Status: **PROPOSAL / OPEN**. Prepared 2026-11-04 from Alder's adjudication of the external review. Nothing below is ruled, and nothing in the release changes until Jonathan rules.
+Status: **RULED IN PART, as of 2026-11-06**. Prepared 2026-11-04 from Alder's adjudication of the external review. R-A and R-B were decided by Jonathan's direction of 2026-11-04, built the same day in the local and share lineages, and ported to the build tree on 2026-11-06 (verified: proof 84/84, Layer 1 62/62, seed 103/103, teaching 96/96, pools 79/79, heldout clean). R-C, the mechanical part of R-E, R-F, R-G, and the two text scopings below were ruled by Alder on 2026-11-06 under Jonathan's delegation (strikable); the SHARE-text corrections themselves were applied on 2026-11-05 in the record 23934794 correction. R-D: the Section 6 correction to 0-10 was applied to the SHARE document on 2026-11-05; the compiled blueprint's "0 to infinity" passage is attributed to Jonathan's 2026-10-17 updates and stands untouched pending his ruling. The copyright-holder string in R-E remains Jonathan's confirmation.
 
 Source record: `~/workspace/goals/pmca-simulation/hidden_files/math-verification-2026-11-03/EXTERNAL-REVIEW-ADJUDICATION-2026-11-03.md`
 
