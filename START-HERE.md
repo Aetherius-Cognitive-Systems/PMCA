@@ -20,6 +20,10 @@ Also in the tree, retained for the record: the nine retired finder microscripts 
 - `pmca_self_fix_battery.py`: the self-fix battery.
 - `wg2_conformance.py`: the conformance suite.
 
+## What runs from this checkout
+
+Measured from this tree on 2026-11-05: `pmca_proof.py` runs its battery standalone, 84/84; `pmca_layer1.py` runs its battery standalone, 58/58. `wg2_conformance.py` needs the rebuilt Webster 1913 database at `code/data/webster1913.db` and will not run until that stock is in place (see `docs/pmca-data-sources.md`). Suites that read the dictionary stock behave the same way: the verdict path runs without it, the stock-dependent checks wait for it.
+
 ## It runs as shipped
 
 The verdict path runs from the seed as shipped, with nothing to download. The dictionary datasets (Webster 1913, Wiktionary via Kaikki, WordNet) are external reference data, named in `docs/pmca-data-sources.md` so the stock can be rebuilt; they are not redistributed because they are large third-party datasets. Without them the system returns HOLD more often. It does not stop running.

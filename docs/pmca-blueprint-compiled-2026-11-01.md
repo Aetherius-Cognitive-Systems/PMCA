@@ -2,6 +2,8 @@
 
 PRIVATE MASTER COPY — NOT FOR PUBLIC RELEASE
 
+> **Status note, 2026-11-05:** The line above is this document's drafting header from 2026-11-01. Under the author's whole-release ruling of 2026-11-05 this compilation was published in full, as part of Zenodo record 23973662, and is carried in this repository on that ruling. The header is kept as part of the document's history; it no longer describes the document's status.
+
 **Compiled:** 2026-11-01
 **Base file:** `pmca-blueprint-finalized-2026-10-27.md`
 **Base md5:** `c6e5fed2a3e6922b5bbc8ffc0d44cddd`
