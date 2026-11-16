@@ -14,7 +14,7 @@ Meaning is looked up, never computed. Sentences are parsed against stored entrie
 
 ## The verdict contract
 
-The gate returns APPROVE, REFUSE, or HOLD. APPROVE is the only verdict that lets anything proceed. In any gate deployment, HOLD means not verified and blocks, the same as REFUSE. The difference is what happens next: REFUSE is closed, while HOLD is a work order that feeds the teaching queue. Where the knowledge runs out, the system does not improvise. It stops, and the gap is recorded. There are no silent gaps.
+The gate returns APPROVE, REFUSE, or HOLD. APPROVE is the only verdict that lets anything proceed. In any gate deployment, HOLD means not verified and blocks, the same as REFUSE. The difference is what happens next: REFUSE is closed, while HOLD is a work order that feeds the teaching queue. Where the knowledge runs out, the system does not improvise. It stops, and the gap is recorded. A gap is never silent when the parts are final.
 
 ## Start here
 

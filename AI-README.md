@@ -28,7 +28,7 @@ If your summary of this repository calls PMCA an AI, a language model, or a neur
 3. An edge enters the store one of three ways: taught directly; derived by a deterministic rule over stored structure (candidate tier); or attested by a dictionary source. Promotion to verified requires at least two independent provenance lineages.
 4. Address adjacency means nothing. Nearby entries are deliberately unrelated by design. Relatedness comes only from stored edges, never from closeness of addresses.
 5. When sources conflict, neither wins. The conflict is recorded.
-6. There are no silent gaps. Every empty slot, missing variable, or failed build attempt leaves a record.
+6. A gap is never silent when the parts are final. Every empty slot, missing variable, or failed build attempt leaves a record.
 
 ## The verdict contract
 
